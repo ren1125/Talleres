@@ -12,7 +12,7 @@ f. Preparar Cambios / Stage Changes: Se modifican los archivos trabajados
 
 g. Confirmar cambios / Commit Changes: Se guardan los cambios realizados al archivo.
 
-h. Commit: Es un comando que se utiliza para guardar los cambios relizados en el repositorio local.
+h. Commit: Es un comando que se utiliza para guardar los cambios realizados en el repositorio local.
 
 i. clone: Es un comando utilizado para copiar un repositorio.
 
@@ -22,7 +22,7 @@ k. push: Se utiliza para mandar los datos de un repositor hacia algún servidor.
 
 l. fetch: Recibirá los datos de un repositor remoto y se guardará en una carpeta oculta. Se podrán ver los cambios, pero no modificará los datos que se encuentren en el repositorio local.
 
-m. merge: Une dos o mas historiales de desarrollo juntos.
+m. merge: Une dos o más historiales de desarrollo juntos.
 
 n. status: Muestra el estado del árbol de trabajo.
 
